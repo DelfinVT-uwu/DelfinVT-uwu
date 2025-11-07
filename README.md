@@ -52,13 +52,13 @@ class WhoAmI:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,c,flutter,kotlin,js,nodejs,postgresql,nim,bash,linux" />
+  <!-- añadí nim y assembly (ensamblador) -->
+  <img src="https://skillicons.dev/icons?i=python,rust,nim,cpp,c,asm,flutter,kotlin,js,nodejs,postgresql,bash,linux" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelfinVT-uwu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B891FF&text_color=bbbbbb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelfinVT-uwu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B891FF&text_color=bbbbbb&langs_count=8" />
 </div>
-
 ---
 
 ## 🌌 Estado del Sistema
