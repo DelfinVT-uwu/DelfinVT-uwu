@@ -135,7 +135,7 @@ class DelfinVT:
 </p>
 
 </div>
-    ```yaml
+  
     name: Generate Snake Animation
     on:
       schedule:
@@ -152,12 +152,3 @@ class DelfinVT:
                 output/github-contribution-grid-snake.svg
                 output/github-contribution-grid-snake-dark.svg?palette=github-dark
     ```
-    Change `DelfinVT-uwu` to your username, commit the file, and the animation will generate within minutes.
-
-3.  **Update Project Details**: Modify the **"Active Cores"** table with your real project names, descriptions, and technologies.
-
-4.  **Check Your Bio**: The header mentions "Cyberpunk Dreamer" and your OS. Update these badges and text to match your actual focus and setup.
-
-5.  **Be Patient with Caching**: GitHub caches images and READMEs. After pushing changes, it might take a few minutes (or sometimes a hard refresh with `Ctrl+F5`) for everything to update correctly.
-
-This new design should resolve the previous errors and give you a dynamic, visually impressive profile. If you want to dive deeper into customizing specific sections like the typing animation further, the documentation for **TypingSVG** offers many advanced options. Enjoy your new profile
