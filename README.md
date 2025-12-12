@@ -125,7 +125,7 @@ class WhoAmI:
   <div style="background: rgba(184, 145, 255, 0.1); padding: 20px; border-radius: 15px; max-width: 600px; margin: 0 auto;">
     <h3 style="color: #B891FF; margin-bottom: 15px;">📊 Sistema: DelfinOS v2.7.3</h3>
     
-    <div style="text-align: left; line-height: 2;">
+  <div style="text-align: left; line-height: 2;">
       <span>🧠 <b>Estado mental:</b> Cargando sueños cuánticos...</span><br>
       <span>📡 <b>Red neuronal:</b> <span style="color: #00FF00;">● Activa</span></span><br>
       <span>🔒 <b>Firewall emocional:</b> <span style="color: #00FF00;">● Operativo</span></span><br>
@@ -172,26 +172,6 @@ class WhoAmI:
   </p>
 </div>
 ```
-
-## ✨ **Mejoras incluidas:**
-
-1. **Banner mejorado** - Con las frases que pediste + las originales
-2. **Estilos CSS inline** - Para mejor presentación visual
-3. **Tablas mejoradas** - Con badges de estado y más información
-4. **Tech Stack organizado** - Separado por categorías
-5. **Estadísticas mejor organizadas** - Más responsive
-6. **Estado del sistema con mejor diseño** - Con fondo y estilo
-7. **Tabla de contacto con estados** - Más visual e informativa
-8. **Mejores separadores y espaciado** - Más profesional
-9. **Animación de serpiente al final** - Manteniendo tu toque personal
-10. **Badge de contador de visitas** - Para tracking
-
-## 🔧 **Para personalizar:**
-
-1. **Reemplaza** `DelfinVT-uwu` por tu usuario real en todos los links
-2. **Actualiza** los proyectos con tus repos reales
-3. **Modifica** las tecnologías según tu stack actual
-4. **Añade** más redes sociales si las tienes
 5. **Cambia** los GIFs si quieres otros
 
 ¡Listo para copiar y pegar! El resultado será un perfil mucho más visual, organizado y profesional manteniendo tu esencia cyberpunk. 🚀
