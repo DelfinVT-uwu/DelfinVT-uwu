@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20👨💻&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B891FF&center=true&vCenter=true&width=500&lines=¡Hola+Mundo!;Hello+World!;Conectado+a+la+red;Welcome+to+my+neural+network" alt="Typing SVG" />
@@ -56,7 +56,7 @@ class DelfinVT:
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,postgres,grafana,prometheus&theme=dark&perline=4" />
 </p>
 <p align="center">
-  <!-- Imagen de Lain Iwakura en la computadora (URL pública) -->
+  <!-- Imagen de Lain Iwakura en la computadora -->
   <img src="https://64.media.tumblr.com/07e9e99b6f5f8c2c0e8cac48a8d20a1a/tumblr_mi8n6mMls41qgjltfo1_500.gifv" width="180" style="border-radius: 10px;" alt="Lain Iwakura" />
   <br/>
   <i><sub>Present. And you don't seem to understand.</sub></i>
@@ -65,38 +65,26 @@ class DelfinVT:
 </tr>
 </table>
 
-<!-- ############### GITHUB STATS - SERVICIOS ALTERNATIVOS ############### -->
+<!-- ############### NUEVA SECCIÓN: BADGES DINÁMICOS ############### -->
 ## 📊 <span style="color: #B891FF;">╰┈➤ Quantum Metrics</span>
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **Your GitHub Stats** | **Your GitHub Streak** |
-| <img src="https://github-readme-stats.vercel.app/api?username=DelfinVT-uwu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B891FF&icon_color=B891FF&include_all_commits=true" alt="GitHub Stats" width="100%"/> | <img src="https://streak-stats.demolab.com?user=DelfinVT-uwu&theme=tokyonight&hide_border=true&background=0d1117&ring=B891FF&fire=B891FF" alt="GitHub Streak" width="100%"/> |
-| **Top Languages** | **Trophies** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelfinVT-uwu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B891FF&text_color=8B949E" width="100%" alt="Top Languages" /> | <img src="https://github-profile-trophy.vercel.app/?username=DelfinVT-uwu&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" width="100%" alt="GitHub Trophies" /> |
+### ⚡ GitHub Activity & Stats
+<!-- Badges dinámicos y confiables de Shields.io -->
+<img src="https://img.shields.io/github/followers/DelfinVT-uwu?style=for-the-badge&logo=github&color=b891ff&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/DelfinVT-uwu?style=for-the-badge&logo=github&color=ffd700&label=Total%20Stars" alt="Total Stars" />
+<br/>
+<img src="https://img.shields.io/github/last-commit/DelfinVT-uwu/DelfinVT-uwu?style=for-the-badge&logo=git&color=00ff00&label=Last%20Commit" alt="Last Commit" />
+<img src="https://img.shields.io/github/repo-size/DelfinVT-uwu/DelfinVT-uwu?style=for-the-badge&logo=azurepipelines&color=6495ed&label=Repo%20Size" alt="Repo Size" />
+<br/>
+<img src="https://img.shields.io/github/license/DelfinVT-uwu/DelfinVT-uwu?style=for-the-badge&logo=open-source-initiative&color=8a2be2&label=License" alt="License" />
+<img src="https://img.shields.io/github/contributors/DelfinVT-uwu/DelfinVT-uwu?style=for-the-badge&logo=githubsponsors&color=ff69b4&label=Contributors" alt="Contributors" />
+
+<br/>
+<sub><i>Estadísticas en tiempo real. Carga instantánea, sin errores.</i></sub>
 
 </div>
-
-<details>
-<summary><b>🛠️ ¿Si las stats no cargan? (Solución con Token)</b></summary>
-
-1.  Ve a [GitHub Settings > Tokens](https://github.com/settings/tokens) y genera un nuevo token (classic). Dale solo el permiso `public_repo`.
-2.  En tu repositorio `DelfinVT-uwu`, ve a **Settings > Secrets and variables > Actions**.
-3.  Crea un nuevo **Repository Secret** llamado `PAT_1` y pega tu token allí.
-4.  Reemplaza las URLs de las imágenes de stats en el README con estas (ya incluyen tu user):
-
-    ```markdown
-    <!-- Stats con Token -->
-    <img src="https://github-readme-stats.vercel.app/api?username=DelfinVT-uwu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B891FF&icon_color=B891FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-    <!-- Streak con Token -->
-    <img src="https://streak-stats.demolab.com?user=DelfinVT-uwu&theme=tokyonight&hide_border=true&background=0d1117&ring=B891FF&fire=B891FF" alt="GitHub Streak" width="100%"/>
-    <!-- Top Langs con Token -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelfinVT-uwu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B891FF&text_color=8B949E" width="100%" alt="Top Languages" />
-    ```
-    El sistema detectará automáticamente el secreto `PAT_1`.
-</details>
 
 <!-- ############### ACTIVE PROJECTS ############### -->
 ## 🚀 <span style="color: #B891FF;">╰┈➤ Active Cores</span>
@@ -121,3 +109,15 @@ class DelfinVT:
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DelfinVT-uwu) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/delfin.404) | [![Keybase](https://img.shields.io/badge/KeyBase-66CCFF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/yourprofile) |
 
 </div>
+
+<!-- ############### FOOTER ############### -->
+<div align="center">
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=DelfinVT-uwu&color=B891FF&style=flat-square" alt="Profile views" />
+<p>
+  <i>Thanks for visiting! You don't exist unless someone sees you.</i>
+</p>
+
+</div>
+```
