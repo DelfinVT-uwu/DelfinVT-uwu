@@ -135,20 +135,6 @@ class DelfinVT:
 </p>
 
 </div>
-```
-
----
-
-### 🔧 **Personalization & Next Steps**
-
-To make this profile truly yours and ensure everything works, follow these steps:
-
-1.  **Replace the Username**: In the **GitHub Statistics** section (`github-readme-stats-eight.vercel.app` URLs), change `DelfinVT-uwu` to your actual GitHub username in **all four image links**.
-
-2.  **Set Up the Snake Animation**:
-    The snake will only work if you set up a GitHub Action. Here’s how:
-    *   Create a file in your profile repository at `.github/workflows/snake.yml`.
-    *   Paste the following YAML code into it:
     ```yaml
     name: Generate Snake Animation
     on:
