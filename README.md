@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20👨💻&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B891FF&center=true&vCenter=true&width=500&lines=¡Hola+Mundo!;Hello+World!;Conectado+a+la+red;Welcome+to+my+neural+network" alt="Typing SVG" />
