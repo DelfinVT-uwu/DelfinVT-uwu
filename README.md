@@ -172,6 +172,3 @@ class WhoAmI:
   </p>
 </div>
 ```
-5. **Cambia** los GIFs si quieres otros
-
-¡Listo para copiar y pegar! El resultado será un perfil mucho más visual, organizado y profesional manteniendo tu esencia cyberpunk. 🚀
