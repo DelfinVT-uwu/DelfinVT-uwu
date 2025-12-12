@@ -30,7 +30,7 @@
 ```python
 class DelfinVT:
     def __init__(self):
-        self.alias = "Neural Dolphin"
+        self.alias = "Delfin / Z"
         self.core = "Hacker & Post-Quantum Researcher"
         self.focus = "Bridging neural networks & cybersecurity"
     
