@@ -135,20 +135,4 @@ class DelfinVT:
 </p>
 
 </div>
-  
-    name: Generate Snake Animation
-    on:
-      schedule:
-        - cron: "0 0 * * *" # Runs daily
-      workflow_dispatch: # Allows manual run
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: Platane/snk@v3
-            with:
-              github_user_name: DelfinVT-uwu 
-              outputs: |
-                output/github-contribution-grid-snake.svg
-                output/github-contribution-grid-snake-dark.svg?palette=github-dark
-    ```
+
