@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20👨💻&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=DelfinVT%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Neural%20Dreamer%20%7C%20Quantum%20Hacker&descAlignY=70&descSize=20" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B891FF&center=true&vCenter=true&width=500&lines=¡Hola+Mundo!;Hello+World!;Conectado+a+la+red;Welcome+to+my+neural+network" alt="Typing SVG" />
@@ -31,7 +31,7 @@
 class DelfinVT:
     def __init__(self):
         self.alias = "Neural Dolphin"
-        self.core = "Ethical Hacker & Post-Quantum Researcher"
+        self.core = "Hacker & Post-Quantum Researcher"
         self.focus = "Bridging neural networks & cybersecurity"
     
     @property
@@ -57,7 +57,7 @@ class DelfinVT:
 </p>
 <p align="center">
   <!-- Imagen de Lain Iwakura en la computadora -->
-  <img src="https://64.media.tumblr.com/07e9e99b6f5f8c2c0e8cac48a8d20a1a/tumblr_mi8n6mMls41qgjltfo1_500.gifv" width="180" style="border-radius: 10px;" alt="Lain Iwakura" />
+  <img src="https://th.bing.com/th/id/R.3a3564495da3032cb927f5d9da0743b2?rik=%2bjPDSdz%2bluDZAA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fudK21RQeWtaGQ%2fgiphy.gif&ehk=STZwdXLBTEc1rULS%2bmvJazGyz0nZQIfMStyleijlTNk%3d&risl=&pid=ImgRaw&r=0" width="180" style="border-radius: 10px;" alt="Lain Iwakura" />
   <br/>
   <i><sub>Present. And you don't seem to understand.</sub></i>
 </p>
@@ -120,4 +120,3 @@ class DelfinVT:
 </p>
 
 </div>
-```
