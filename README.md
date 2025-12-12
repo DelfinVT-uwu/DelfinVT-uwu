@@ -128,24 +128,3 @@ Firewall: Active ██████████
 </div>
 
 ---
-
-## ⚠️ **DISCLAIMER**
-> *"All projects are for educational and research purposes only.*  
-> *Use responsibly and within legal boundaries.*  
-> *With great power comes great responsibility."*
-```
-
-## 🔧 **Personalización Rápida:**
-1. **Reemplaza** `DelfinVT-uwu` con tu nombre de usuario real
-2. **Actualiza** los proyectos con tus repositorios reales
-3. **Modifica** las tecnologías según tu stack actual
-4. **Añade/elimina** redes sociales según necesites
-5. **Actualiza** la sección de actividad con tus logros recientes
-
-## 📝 **Notas:**
-- Los badges se generan automáticamente
-- Las estadísticas se actualizan diariamente
-- El efecto typing SVG es personalizable en [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-- La serpiente de contribuciones se actualiza automáticamente
-
-¡Listo para copiar y pegar en tu `README.md`! 🚀
