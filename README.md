@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./Piña.png" width="100%" />
+<<p align="center">
+  <img src="./Piña.png" width="45%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
@@ -128,3 +128,4 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
   <br/>
   <sub>you don't exist unless someone sees you</sub>
 </p>
+>
