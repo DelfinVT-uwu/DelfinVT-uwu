@@ -23,24 +23,18 @@
 
 <h2><b>hi, i'm DelfinVT!</b></h2>
 
-<p><b>welcome to my neural network</b><br/>
-hacker by passion, dolphin by soul. building an OS, breaking things, and bridging neural networks with cybersecurity.</p>
+<p><b>Hacker | Linux lover | system builder</b></p>
 
-<br/>
+<p>focused on cybersecurity, automation, operating systems,<br/>
+neural networks, quantum mechanics, and chemistry.</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="background: #0D1117; border-radius: 12px; border: 1px solid #B891FF;">
-  <tr>
-    <td style="padding: 16px 24px; font-family: 'Fira Code', 'Cascadia Code', monospace; color: #E0E0E0; font-size: 14px; line-height: 1.8;">
-      <span style="color: #00FF41;">$</span> <span style="color: #FF79C6;">whoami</span>
-      <span style="color: #333; display: block; border-bottom: 1px solid #333; margin: 6px 0 10px 0;"></span>
-      <span style="color: #6D4AFF;">alias</span>   <span style="color: #555;">-</span> Delfin / Z<br/>
-      <span style="color: #6D4AFF;">role</span>    <span style="color: #555;">-</span> Hacker &amp; Researcher<br/>
-      <span style="color: #6D4AFF;">focus</span>   <span style="color: #555;">-</span> Post-Quantum, AI, Security<br/>
-      <span style="color: #6D4AFF;">stack</span>   <span style="color: #555;">-</span> Python, Rust, Nim, C<br/>
-      <span style="color: #6D4AFF;">status</span>  <span style="color: #555;">-</span> building the future
-    </td>
-  </tr>
-</table>
+<p>i explore the intersection between technology, science, and curiosity,<br/>
+breaking assumptions and turning ideas into code.</p>
+
+<p>always learning, always building.</p>
+
+<p><i>dolphin by soul,<br/>
+hacker by instinct.</i></p>
 
 <br/>
 
@@ -65,24 +59,52 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
 
 <h2><b>arsenal</b></h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,nim,c,cpp,assembly&theme=dark&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,aws,grafana&theme=dark&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,nodejs,flutter&theme=dark&perline=5" />
-</p>
+<table>
+<tr>
+  <th width="120">Category</th>
+  <th>Stack</th>
+</tr>
+<tr>
+  <td><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=python,rust,nim,c,cpp,assembly,go&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+  <td><b>Security</b></td>
+  <td><code>ParrotOS</code> <code>Metasploit</code> <code>Wireshark</code> <code>Forensics</code></td>
+</tr>
+<tr>
+  <td><b>Neural</b></td>
+  <td><code>TensorFlow</code> <code>PyTorch</code> <code>Custom NNs</code></td>
+</tr>
+<tr>
+  <td><b>Infra</b></td>
+  <td><img src="https://skillicons.dev/icons?i=linux,bash,git,docker,aws,grafana,flutter&theme=dark&perline=10" /></td>
+</tr>
+</table>
 
 ---
 
 <h2><b>metrics</b></h2>
 
 <p align="center">
-  <a href="https://github.com/DelfinVT-uwu">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DelfinVT-uwu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelfinVT-uwu&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/github/followers/DelfinVT-uwu?style=flat-square&logo=github&label=followers&color=6D4AFF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/DelfinVT-uwu?style=flat-square&logo=github&label=stars&color=FFD700&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/repos-4-00FF41?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/DelfinVT-uwu/DelfinVT-uwu?style=flat-square&logo=git&label=updated&color=FF79C6&labelColor=0D1117" />
 </p>
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0" style="background: #0D1117; border-radius: 12px; border: 1px solid #6D4AFF; margin: 0 auto;">
+  <tr>
+    <td style="padding: 14px 22px; font-family: 'Fira Code', monospace; color: #E0E0E0; font-size: 13px; line-height: 1.8;">
+      <span style="color: #6D4AFF;">UPTIME</span>            <span style="color: #555;">-</span>  activo desde 2022<br/>
+      <span style="color: #6D4AFF;">CONTRIBUTIONS</span>     <span style="color: #555;">-</span>  en crecimiento<br/>
+      <span style="color: #6D4AFF;">CURRENT FOCUS</span>     <span style="color: #555;">-</span>  post-quantum cryptography<br/>
+      <span style="color: #6D4AFF;">DAILY DRIVER</span>      <span style="color: #555;">-</span>  Arch Linux btw
+    </td>
+  </tr>
+</table>
 
 ---
 
