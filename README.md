@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Piña.png" width="22%" style="border-radius: 16px;" />
+  <img src="./Pina.png" width="22%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
@@ -70,7 +70,30 @@ hacker by instinct.</i></p>
 </tr>
 <tr>
   <td><b>Security</b></td>
-  <td><code>ParrotOS</code> <code>Metasploit</code> <code>Wireshark</code> <code>Forensics</code></td>
+  <td>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><code>Pentesting</code></td>
+        <td style="padding-left: 8px;">Metasploit, Burp Suite, Nmap, Hydra, BloodHound, Empire</td>
+      </tr>
+      <tr>
+        <td><code>Forensics</code></td>
+        <td style="padding-left: 8px;">Autopsy, Volatility, Wireshark, FTK Imager, Redline</td>
+      </tr>
+      <tr>
+        <td><code>OSINT</code></td>
+        <td style="padding-left: 8px;">Maltego, Shodan, Recon-ng, theHarvester, SpiderFoot</td>
+      </tr>
+      <tr>
+        <td><code>Reversing</code></td>
+        <td style="padding-left: 8px;">Ghidra, IDA Pro, x64dbg, dnSpy, Radare2</td>
+      </tr>
+      <tr>
+        <td><code>Defensive</code></td>
+        <td style="padding-left: 8px;">SIEM, Snort, CrowdStrike, Firewalls, IDS/IPS</td>
+      </tr>
+    </table>
+  </td>
 </tr>
 <tr>
   <td><b>Neural</b></td>
