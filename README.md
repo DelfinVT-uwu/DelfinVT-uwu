@@ -1,9 +1,9 @@
-<<p align="center">
-  <img src="./Piña.png" width="45%" style="border-radius: 16px;" />
+<p align="center">
+  <img src="./Pina.png" width="22%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
-  <i>⋆｡°✩ neural dreamer · quantum hacker · os architect ✩°｡⋆</i>
+  <i>neural dreamer - quantum hacker - os architect</i>
 </p>
 
 <br/>
@@ -21,24 +21,26 @@
 <tr>
 <td width="60%">
 
-<h2><b>hi, i'm DelfinVT! 🐬</b></h2>
+<h2><b>hi, i'm DelfinVT!</b></h2>
 
-<p><b>welcome to my neural network :3</b><br/>
-hacker by passion, dolphin by soul. building an OS, breaking things, and bridging neural networks with cybersecurity～☆</p>
+<p><b>welcome to my neural network</b><br/>
+hacker by passion, dolphin by soul. building an OS, breaking things, and bridging neural networks with cybersecurity.</p>
 
 <br/>
 
-<pre>
-╭──────────────────────────────────────╮
-│  $ whoami                           │
-│  ─────────────────────────────────── │
-│  alias   : Delfin / Z               │
-│  role    : Hacker & Researcher       │
-│  focus   : Post-Quantum · AI · Sec   │
-│  stack   : Python · Rust · Nim · C   │
-│  status  : building the future 🚀    │
-╰──────────────────────────────────────╯
-</pre>
+<table border="0" cellpadding="0" cellspacing="0" style="background: #0D1117; border-radius: 12px; border: 1px solid #B891FF;">
+  <tr>
+    <td style="padding: 16px 24px; font-family: 'Fira Code', 'Cascadia Code', monospace; color: #E0E0E0; font-size: 14px; line-height: 1.8;">
+      <span style="color: #00FF41;">$</span> <span style="color: #FF79C6;">whoami</span>
+      <span style="color: #333; display: block; border-bottom: 1px solid #333; margin: 6px 0 10px 0;"></span>
+      <span style="color: #6D4AFF;">alias</span>   <span style="color: #555;">-</span> Delfin / Z<br/>
+      <span style="color: #6D4AFF;">role</span>    <span style="color: #555;">-</span> Hacker &amp; Researcher<br/>
+      <span style="color: #6D4AFF;">focus</span>   <span style="color: #555;">-</span> Post-Quantum, AI, Security<br/>
+      <span style="color: #6D4AFF;">stack</span>   <span style="color: #555;">-</span> Python, Rust, Nim, C<br/>
+      <span style="color: #6D4AFF;">status</span>  <span style="color: #555;">-</span> building the future
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -61,7 +63,7 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
 
 ---
 
-<h2><b>📡 arsenal</b></h2>
+<h2><b>arsenal</b></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,nim,c,cpp,assembly&theme=dark&perline=6" />
@@ -73,7 +75,7 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
 
 ---
 
-<h2><b>📊 metrics</b></h2>
+<h2><b>metrics</b></h2>
 
 <p align="center">
   <a href="https://github.com/DelfinVT-uwu">
@@ -84,7 +86,7 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
 
 ---
 
-<h2><b>🚀 projects</b></h2>
+<h2><b>projects</b></h2>
 
 <table>
 <tr>
@@ -94,28 +96,34 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
   <th>Status</th>
 </tr>
 <tr>
-  <td><b>🧠 Nyra Neural</b></td>
-  <td>AI assistant — quantum-resistant encryption + emotion AI</td>
+  <td><b>Nyra Neural</b></td>
+  <td>AI assistant with quantum-resistant encryption and emotion simulation</td>
   <td><code>Python</code> <code>TensorFlow</code> <code>Rust</code></td>
-  <td>✅ Active</td>
+  <td>Active</td>
 </tr>
 <tr>
-  <td><b>🛡️ Nautilus v3</b></td>
-  <td>Offensive security suite for red team operations</td>
+  <td><b>Proyecto Leviathan</b></td>
+  <td>Advanced surveillance system - like an all-seeing eye, but better</td>
   <td><code>Nim</code> <code>C++</code> <code>Python</code> <code>Bash</code></td>
-  <td>✅ v3.1.4</td>
+  <td>v3.1.4</td>
 </tr>
 <tr>
-  <td><b>🏥 MedArch OS</b></td>
-  <td>Medical-grade HIPAA-compliant OS</td>
+  <td><b>MedArch OS</b></td>
+  <td>Medical OS built on Arch Linux with custom kernel, optimized for any device, includes 150+ free medical tools</td>
   <td><code>Rust</code> <code>C</code> <code>Linux Kernel</code></td>
-  <td>🔄 Beta</td>
+  <td>Beta</td>
 </tr>
 <tr>
-  <td><b>🔐 QuantumLock</b></td>
-  <td>Post-quantum cryptography library</td>
-  <td><code>Python</code> <code>C</code> <code>Assembly</code></td>
-  <td>🔄 WIP</td>
+  <td><b>QuantumLock</b></td>
+  <td>Post-quantum cryptography library for future-proof systems</td>
+  <td><code>Nim</code> <code>Python</code> <code>C</code> <code>Asm</code> <code>Go</code></td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td><b>DolphinXVR</b></td>
+  <td>VR overlay for vtubers, streamers and everyday use - enhancing virtual reality</td>
+  <td>--</td>
+  <td>Planning</td>
 </tr>
 </table>
 
@@ -128,4 +136,3 @@ hacker by passion, dolphin by soul. building an OS, breaking things, and bridgin
   <br/>
   <sub>you don't exist unless someone sees you</sub>
 </p>
->
