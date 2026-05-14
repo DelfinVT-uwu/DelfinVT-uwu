@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Piña.png" width="22%" style="border-radius: 16px;" />
+  <img src="./Piña.png" width="32%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
