@@ -24,7 +24,7 @@ I focus on the intersection of cybersecurity, reverse engineering, and low-level
 * 🔭 **Currently building:** **DolphinXVR** (a SteamVR overlay) and expanding **DolphinEngineering**.
 * 🌱 **Focused on:** Malware analysis, threat emulation, and VR development.
 * 💻 **Environment:** Arch Linux + Hyprland + Fish.
-* 💬 **Ask me about:** Reverse engineering (IDA, Ghidra), C/Rust, or VRChat mechanics.
+* 💬 **Ask me about:** Reverse engineering (IDA, Ghidra), C/Rust/Nim.
 
 ### 🛠️ Tech Stack & Arsenal
 
