@@ -135,10 +135,6 @@ I work where security meets low-level code: reverse engineering, malware samples
 
 <img src="https://streak-stats.demolab.com?user=DelfinVT-uwu&background=0D1117&border=30363D&ring=6D4AFF&fire=6D4AFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6D4AFF&sideLabels=8B949E&dates=8B949E" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DelfinVT-uwu&bg_color=0D1117&color=C9D1D9&line=6D4AFF&point=FFFFFF&area=true&area_color=6D4AFF&hide_border=true" width="100%" />
-
 </div>
 
 <br>
