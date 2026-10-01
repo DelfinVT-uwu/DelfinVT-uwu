@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="./Piña.png" width="180" style="border-radius: 50%; border: 2px solid #6D4AFF;" />
-  
-  <h1>Hi, I'm Delfin 👋</h1>
-  <p><b>Cybersecurity Researcher | Low-Level Developer | VTuber</b></p>
-  
-  <p>
-    Building operating systems, breaking binaries, and exploring virtual realities.
-  </p>
+  <img src="./Piña.png" width="160" style="border-radius: 50%; border: 2px solid #6D4AFF;" />
+
+  <h1>Delfin</h1>
+  <p>Malware analysis, reverse engineering and systems programming.<br>I also stream as a VTuber.</p>
 
   <p>
     <a href="https://twitter.com/DelfinExe"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
@@ -17,48 +13,39 @@
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-I focus on the intersection of cybersecurity, reverse engineering, and low-level system architecture. When I'm not digging into assembly code or analyzing malware samples, I'm probably streaming, configuring Hyprland, or building communities.
+I spend most of my time reading assembly, taking malware samples apart and writing low-level code. Outside of that I stream, tweak my Hyprland setup and help run a small learning community.
 
-* 🔭 **Currently building:** **DolphinXVR** (a SteamVR overlay) and expanding **DolphinEngineering**.
-* 🌱 **Focused on:** Malware analysis, threat emulation, and VR development.
-* 💻 **Environment:** Arch Linux + Hyprland + Fish.
-* 💬 **Ask me about:** Reverse engineering (IDA, Ghidra), C/Rust/Nim.
+Right now I'm working on:
 
-### 🛠️ Tech Stack & Arsenal
+- **DolphinXVR**, a SteamVR overlay.
+- **DolphinEngineering**, which I'm slowly growing into a proper organization.
+- Malware analysis and threat emulation write-ups.
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,assembly,nim,go,python,cs&theme=dark" />
-</p>
+Ask me about reverse engineering (IDA, Ghidra) or about C, Rust and Nim.
 
-**Security & Reverse Engineering**
-<p>
-  <code>Ghidra</code> <code>IDA</code> <code>x64dbg</code> <code>Wireshark</code> <code>Burp Suite</code> <code>Nmap</code> <code>Radare2</code> <code>FLARE VM</code>
-</p>
+My setup is Arch Linux, Hyprland and Fish.
 
-**Infrastructure & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,docker&theme=dark" />
-</p>
+## Projects
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
+| Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **Leviathan** | Security research and advanced threat emulation framework. | `Nim` `C++` `Python` |
-| **MedArch OS** | Medical Linux distro optimized for low-resource hardware. | `Rust` `C` `Linux Kernel` |
-| **DolphinXVR** | Open-source VR overlay designed for SteamVR. | `Rust` `Python` `Tauri` `C#` |
-| **Academia Delfin** | Free community-based cybersecurity learning program. | `Education` `Community` |
+| [Leviathan](#) | Threat emulation framework for security research. | Nim, C++, Python |
+| [MedArch OS](#) | Linux distro for medical use, tuned for low-resource hardware. | Rust, C |
+| [DolphinXVR](#) | Open-source overlay for SteamVR. | Rust, Python, Tauri, C# |
+| [Academia Delfin](#) | Free cybersecurity course run by the community. | Community project |
 
----
+## Tools
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/DelfinVT-uwu?style=flat-square&logo=github&label=followers&color=6D4AFF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/DelfinVT-uwu?style=flat-square&logo=github&label=stars&color=FFD700&labelColor=0D1117" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=DelfinVT-uwu&color=6D4AFF&style=flat-square&label=Profile+Views" />
-</div>
+**Languages:** C, C++, Rust, Assembly, Nim, Go, Python, C#
+
+**Reverse engineering and analysis:** Ghidra, IDA, x64dbg, Radare2, Wireshark, FLARE VM
+
+**Web and network:** Burp Suite, Nmap
+
+**Daily environment:** Arch Linux, Hyprland, Fish, Git, Docker
+
+## Contact
+
+Email me at DelfinVT@proton.me or find me on Twitter and YouTube using the badges above.
